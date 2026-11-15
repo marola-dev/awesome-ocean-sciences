@@ -211,6 +211,7 @@ learned models against them.
 - [NOAA Satellite Maps](https://www.nesdis.noaa.gov/real-time-imagery/interactive-maps) - Real-time geostationary and polar-orbiting imagery.
 - [CoastWatch Browsers](https://coastwatch.pfeg.noaa.gov/browsers/) - Browse NOAA satellite ocean data.
 - [marola.dev](https://marola.dev/) - Beaches around Florianópolis, Rio de Janeiro and Salvador ranked by best hour to swim, with official water quality.
+- [Ocean Depth Map](https://depth.hertzmc.com/) - Phone and web map of approximate sea depth at your GPS position from the GEBCO grid (cells about 450 m), with NOAA survey depths in US coastal waters; not for navigation.
 
 ## Institutes
 
